@@ -1,1 +1,8 @@
 # cosc416-a1
+### Prateek Balani (68220110)
+
+ The Roll-a-Ball project is a simple Unity game where a player controls a ball on a plane using keyboard inputs.
+
+ There is one ball, one plane and 4 walls
+
+ you can move the ball using W, A, S, D keys for front,  left, back and right respectively 
