@@ -11,6 +11,21 @@ public class BallController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("Calling the Update method");
+        if(Input.GetKeyDown(KeyCode.W))
+        {
+            Debug.Log(Vector2.up);
+        }
+        if(Input.GetKeyDown(KeyCode.S))
+        {
+            Debug.Log(Vector2.down);
+        }
+        if(Input.GetKeyDown(KeyCode.A))
+        {
+            Debug.Log(Vector2.left);
+        }
+        if(Input.GetKeyDown(KeyCode.D))
+        {
+            Debug.Log(Vector2.right);
+        }
     }
 }
