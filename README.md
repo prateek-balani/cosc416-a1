@@ -8,6 +8,6 @@
  you can move the ball using W, A, S, D keys for front,  left, back and right respectively 
 
  video:
-<video src="Screen Recording 2025-01-23 at 11.33.43 AM.mov" controls>
+<video src="Screen Recording 2025-01-23 at 11.33.43 AM.mp4" controls>
   Sorry, your browser does not support embedded videos.
 </video>
